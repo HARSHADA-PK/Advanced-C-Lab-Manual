@@ -241,11 +241,7 @@ void printNumberPattern(int n) {
 
 int main() {
     int n;
-    
-    // Take input from user
     scanf("%d", &n);
-
-    // Print the pattern
     printNumberPattern(n);
 
     return 0;
